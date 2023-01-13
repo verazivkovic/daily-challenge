@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-color:darksalmon;
+  color: firebrick;
+  margin: 100px;
+}
+h1 {
+  font-family: fantasy;
+}
+p {
+  font-family: cursive;
+  font-size: 24px;
+  font-weight: 1700;
+}
+a {
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: solid;
+  color: rgb(21, 2, 75);
+  font-weight: 600;
+}
+a:hover {
+  text-decoration: underline;
+}
+#main-heading {
+  font-size: 30px;
+}
